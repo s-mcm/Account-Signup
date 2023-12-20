@@ -1,7 +1,7 @@
 # Account-Signup
 CMP1902M – Programming Fundamentals – Assessment 1
 
-Command line program. Simulates a user creating an account and recieveing an email address.
+Command line program. Simulates a user creating an account and receiving an email address.
 
 Task 3 includes a guessing number minigame.
 
@@ -18,7 +18,7 @@ Task 3:
 * For example, if you have number 49 in your mind, you will set the range to be 1 to 100
 * The program will guess a number within the ranges
 * The user will say whether it is too high, too low, or your number
-* Number of attempted guesses are displayed
+* Number of attempted guesses is displayed
 * Optimal guessing strategy is used
 
 # Concepts
